@@ -1,0 +1,48 @@
+body{
+
+    background-color: blueviolet;
+    background-image: url(/tp1/images/motif100.jpg);
+   
+    
+}
+
+    
+
+table{
+
+    background-color: darkgray;
+    opacity: .95;
+    width: 100%;
+  
+
+}
+
+table, th, td{
+
+    border: 2px solid black;
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+th{
+
+    background-color: black;
+    color: white;
+    
+    
+
+}
+
+.th1{
+
+    background-image: url(/tp1/images/cegep.png);
+    background-repeat: no-repeat;
+    background-position:  left center;
+    background-size: 200px;  
+    padding: 10px;
+    background-origin: content-box;
+}
+
+
+
